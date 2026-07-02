@@ -42,7 +42,7 @@ The final score is a normalized weighted sum of the major components:
 
 The score is further adjusted by a bounded behavior multiplier and anti-stuffing penalties. The final submission uses monotonically decreasing output scores to satisfy validation.
 
-[!NOTE] To test this prototype you need to 1. clone the repo => upload datasets from [here](https://drive.google.com/file/d/1MfD47XvVdRKBGRAyzGOxDCEf2ve96Jjo/view) => then test run 
+>[!NOTE] To test this prototype you need to 1. clone the repo => upload datasets from [here](https://drive.google.com/file/d/1MfD47XvVdRKBGRAyzGOxDCEf2ve96Jjo/view) => then test run 
 
 ## Running Instructions
 
