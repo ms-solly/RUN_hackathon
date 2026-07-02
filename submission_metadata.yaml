@@ -1,0 +1,43 @@
+team_name: "redrob-poc"
+
+primary_contact:
+  name: "Lead Engineer"
+  email: "lead@example.com"
+  phone: "+91-9000000000"
+
+team_members:
+  - name: "Lead Engineer"
+    email: "lead@example.com"
+    role: "ML Engineer"
+
+github_repo: "https://github.com/example/redrob-poc"
+sandbox_link: "https://huggingface.co/spaces/example/redrob-poc"
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --job-description ./job_description.docx --out ./submission.csv"
+
+compute:
+  platform: "Local Linux box"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.14.6"
+  os: "Linux"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: false
+  pre_computation_time_minutes: 0
+
+ai_tools_used:
+  - "GitHub Copilot"
+
+ai_usage_summary: |
+  Used Copilot to scaffold the local ranking pipeline and reason about code structure.
+  No candidate data was sent to any hosted LLM.
+
+methodology_summary: |
+  Deterministic local ranker for an adversarial candidate dataset. The system combines role-specific title and career relevance, evidence-backed skill trust, production and assessment signals, and bounded behavioral modifiers. It penalizes keyword stuffing and impossible timelines while preserving soft ranking for non-ideal but plausible profiles.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: false
+  reproduction_tested: false

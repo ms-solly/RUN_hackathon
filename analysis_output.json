@@ -1,0 +1,719 @@
+{
+  "n_candidates": 100000,
+  "top_titles": [
+    [
+      "Business Analyst",
+      5833
+    ],
+    [
+      "HR Manager",
+      5830
+    ],
+    [
+      "Mechanical Engineer",
+      5791
+    ],
+    [
+      "Accountant",
+      5764
+    ],
+    [
+      "Project Manager",
+      5754
+    ],
+    [
+      "Customer Support",
+      5750
+    ],
+    [
+      "Operations Manager",
+      5744
+    ],
+    [
+      "Content Writer",
+      5727
+    ],
+    [
+      "Sales Executive",
+      5713
+    ],
+    [
+      "Civil Engineer",
+      5702
+    ],
+    [
+      "Graphic Designer",
+      5689
+    ],
+    [
+      "Marketing Manager",
+      5524
+    ],
+    [
+      "Software Engineer",
+      3450
+    ],
+    [
+      "Full Stack Developer",
+      2873
+    ],
+    [
+      "Cloud Engineer",
+      2836
+    ],
+    [
+      "Java Developer",
+      2809
+    ],
+    [
+      ".NET Developer",
+      2788
+    ],
+    [
+      "DevOps Engineer",
+      2787
+    ],
+    [
+      "Mobile Developer",
+      2757
+    ],
+    [
+      "Frontend Engineer",
+      2738
+    ],
+    [
+      "QA Engineer",
+      2682
+    ],
+    [
+      "Analytics Engineer",
+      764
+    ],
+    [
+      "Data Engineer",
+      744
+    ],
+    [
+      "Data Analyst",
+      728
+    ],
+    [
+      "Backend Engineer",
+      704
+    ],
+    [
+      "Senior Data Engineer",
+      687
+    ],
+    [
+      "Senior Software Engineer",
+      653
+    ],
+    [
+      "ML Engineer",
+      167
+    ],
+    [
+      "AI Research Engineer",
+      153
+    ],
+    [
+      "Data Scientist",
+      145
+    ]
+  ],
+  "title_categories": {
+    "engineering_title": 40924,
+    "non_engineering_title": 58056,
+    "ai_ml_title": 1020
+  },
+  "top_skills": [
+    [
+      "HTML",
+      12246
+    ],
+    [
+      "Databricks",
+      12244
+    ],
+    [
+      "Redux",
+      12222
+    ],
+    [
+      "Terraform",
+      12187
+    ],
+    [
+      "Angular",
+      12173
+    ],
+    [
+      "Figma",
+      12157
+    ],
+    [
+      "Salesforce CRM",
+      12157
+    ],
+    [
+      "Vue.js",
+      12142
+    ],
+    [
+      "Sales",
+      12138
+    ],
+    [
+      "Accounting",
+      12136
+    ],
+    [
+      "Agile",
+      12135
+    ],
+    [
+      "Kafka",
+      12114
+    ],
+    [
+      "Excel",
+      12109
+    ],
+    [
+      "BigQuery",
+      12108
+    ],
+    [
+      "CI/CD",
+      12108
+    ],
+    [
+      "Project Management",
+      12106
+    ],
+    [
+      "Airflow",
+      12105
+    ],
+    [
+      "AWS",
+      12104
+    ],
+    [
+      "Flask",
+      12104
+    ],
+    [
+      "Scrum",
+      12083
+    ],
+    [
+      "Illustrator",
+      12072
+    ],
+    [
+      "Kubernetes",
+      12071
+    ],
+    [
+      "ETL",
+      12068
+    ],
+    [
+      "CSS",
+      12065
+    ],
+    [
+      "Docker",
+      12062
+    ],
+    [
+      "Next.js",
+      12058
+    ],
+    [
+      "Apache Beam",
+      12054
+    ],
+    [
+      "Java",
+      12049
+    ],
+    [
+      "Go",
+      12049
+    ],
+    [
+      "TypeScript",
+      12048
+    ],
+    [
+      "JavaScript",
+      12047
+    ],
+    [
+      "dbt",
+      12046
+    ],
+    [
+      "REST APIs",
+      12040
+    ],
+    [
+      "Spark",
+      12038
+    ],
+    [
+      "Marketing",
+      12037
+    ],
+    [
+      "Tally",
+      12030
+    ],
+    [
+      "GraphQL",
+      12027
+    ],
+    [
+      "Snowflake",
+      12027
+    ],
+    [
+      "Webpack",
+      12026
+    ],
+    [
+      "Six Sigma",
+      11991
+    ]
+  ],
+  "yoe_bins": {
+    "0-2": 7470,
+    "2-5": 26400,
+    "5-9": 33611,
+    "9-12": 17648,
+    "12-20": 14871,
+    "20-50": 0
+  },
+  "yoe_stats": {
+    "min": 1.0,
+    "max": 16.9,
+    "mean": 7.166319,
+    "median": 6.8
+  },
+  "education_tiers": {
+    "tier_3": 53220,
+    "tier_4": 51885,
+    "tier_2": 27821,
+    "tier_1": 6852
+  },
+  "missing_fields": {
+    "certifications": {
+      "missing": 75019,
+      "pct": 75.019
+    },
+    "languages": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "profile.anonymized_name": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "profile.headline": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "profile.summary": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "profile.location": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "profile.country": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "profile.years_of_experience": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "profile.current_title": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "profile.current_company": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "profile.current_company_size": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "profile.current_industry": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "education.grade": {
+      "missing": 0,
+      "pct": 0.0,
+      "denom": 139778
+    },
+    "education.tier": {
+      "missing": 0,
+      "pct": 0.0,
+      "denom": 139778
+    },
+    "skills.duration_months": {
+      "missing": 0,
+      "pct": 0.0,
+      "denom": 960302
+    },
+    "career_history.description_empty": {
+      "missing": 0,
+      "pct": 0.0,
+      "denom": 300171
+    }
+  },
+  "behavioral": {
+    "recruiter_response_rate": {
+      "mean": 0.4365736,
+      "median": 0.44,
+      "p25": 0.25,
+      "p75": 0.62
+    },
+    "profile_completeness_score": {
+      "mean": 56.75818,
+      "median": 56.8,
+      "p25": 42.2,
+      "p75": 71.6
+    },
+    "notice_period_days": {
+      "mean": 87.3858,
+      "median": 90.0,
+      "p25": 60,
+      "p75": 120
+    },
+    "github_activity_score": {
+      "mean": 29.029211322568788,
+      "median": 28.4,
+      "p25": 14.3,
+      "p75": 42.3
+    },
+    "saved_by_recruiters_30d": {
+      "mean": 7.6587,
+      "median": 7.0,
+      "p25": 3,
+      "p75": 11
+    },
+    "search_appearance_30d": {
+      "mean": 117.5438,
+      "median": 105.0,
+      "p25": 52,
+      "p75": 158
+    },
+    "interview_completion_rate": {
+      "mean": 0.6195099,
+      "median": 0.62,
+      "p25": 0.48,
+      "p75": 0.76
+    }
+  },
+  "proxy_comparison": {
+    "years_of_experience": {
+      "top500": 5.7508,
+      "bottom500": 1.954
+    },
+    "recruiter_response_rate": {
+      "top500": 0.62264,
+      "bottom500": 0.3521
+    },
+    "github_activity_score": {
+      "top500": 37.2466,
+      "bottom500": 5.1242
+    },
+    "open_to_work_pct": {
+      "top500": 0.708,
+      "bottom500": 0.016
+    },
+    "notice_period_days": {
+      "top500": 70.29,
+      "bottom500": 85.26
+    },
+    "skill_assessment_mean": {
+      "top500": 57.29304333333334,
+      "bottom500": 1.9886
+    },
+    "saved_by_recruiters_30d": {
+      "top500": 27.726,
+      "bottom500": 5.798
+    },
+    "profile_completeness": {
+      "top500": 73.58,
+      "bottom500": 53.0506
+    },
+    "skill_count": {
+      "top500": 15.258,
+      "bottom500": 7.954
+    },
+    "ai_title": {
+      "top500": 0.938,
+      "bottom500": 0
+    },
+    "eng_title": {
+      "top500": 1,
+      "bottom500": 0
+    }
+  },
+  "sample100_titles": [
+    [
+      "Sales Executive",
+      8
+    ],
+    [
+      "Marketing Manager",
+      8
+    ],
+    [
+      "Mechanical Engineer",
+      8
+    ],
+    [
+      "Civil Engineer",
+      7
+    ],
+    [
+      "Graphic Designer",
+      6
+    ],
+    [
+      "Customer Support",
+      6
+    ],
+    [
+      "Content Writer",
+      5
+    ],
+    [
+      "QA Engineer",
+      5
+    ],
+    [
+      "Frontend Engineer",
+      5
+    ],
+    [
+      "HR Manager",
+      4
+    ],
+    [
+      "Business Analyst",
+      4
+    ],
+    [
+      "Software Engineer",
+      4
+    ],
+    [
+      "Operations Manager",
+      4
+    ],
+    [
+      "Cloud Engineer",
+      4
+    ],
+    [
+      "Mobile Developer",
+      4
+    ],
+    [
+      "Full Stack Developer",
+      2
+    ],
+    [
+      "Senior Software Engineer",
+      2
+    ],
+    [
+      "DevOps Engineer",
+      2
+    ],
+    [
+      "Senior Data Engineer",
+      2
+    ],
+    [
+      ".NET Developer",
+      2
+    ]
+  ],
+  "keyword_stuffers": 5439,
+  "ai_titled": 2325,
+  "india_pct": 75.113,
+  "ai_buzz_distribution": {
+    "0": 77197,
+    "1": 10886,
+    "2": 4544,
+    "3": 1005,
+    "4": 541,
+    "5": 758,
+    "6": 1131,
+    "7": 1175,
+    "8": 1168,
+    "9": 1138,
+    "10": 434,
+    "11": 23
+  },
+  "sample100": {
+    "titles": [
+      [
+        "Sales Executive",
+        8
+      ],
+      [
+        "Marketing Manager",
+        8
+      ],
+      [
+        "Mechanical Engineer",
+        8
+      ],
+      [
+        "Civil Engineer",
+        7
+      ],
+      [
+        "Graphic Designer",
+        6
+      ],
+      [
+        "Customer Support",
+        6
+      ],
+      [
+        "Content Writer",
+        5
+      ],
+      [
+        "QA Engineer",
+        5
+      ],
+      [
+        "Frontend Engineer",
+        5
+      ],
+      [
+        "HR Manager",
+        4
+      ],
+      [
+        "Business Analyst",
+        4
+      ],
+      [
+        "Software Engineer",
+        4
+      ],
+      [
+        "Operations Manager",
+        4
+      ],
+      [
+        "Cloud Engineer",
+        4
+      ],
+      [
+        "Mobile Developer",
+        4
+      ],
+      [
+        "Full Stack Developer",
+        2
+      ],
+      [
+        "Senior Software Engineer",
+        2
+      ],
+      [
+        "DevOps Engineer",
+        2
+      ],
+      [
+        "Senior Data Engineer",
+        2
+      ],
+      [
+        ".NET Developer",
+        2
+      ],
+      [
+        "Accountant",
+        2
+      ],
+      [
+        "Java Developer",
+        2
+      ],
+      [
+        "Analytics Engineer",
+        1
+      ],
+      [
+        "Backend Engineer",
+        1
+      ],
+      [
+        "Data Engineer",
+        1
+      ],
+      [
+        "Project Manager",
+        1
+      ]
+    ],
+    "avg_yoe": 6.311,
+    "avg_skills": 9.95,
+    "anti_titles": 63,
+    "ai_titles": 3,
+    "education_tiers": {
+      "tier_3": 52,
+      "tier_1": 13,
+      "tier_4": 45,
+      "tier_2": 28
+    }
+  },
+  "title_categories_pct": {
+    "engineering_title": 40.9,
+    "non_engineering_title": 58.1,
+    "ai_ml_title": 1.0
+  },
+  "jd_skill_prevalence": {
+    "RAG": 4995,
+    "LangChain": 5162,
+    "FAISS": 5052,
+    "Python": 1378,
+    "PyTorch": 1378,
+    "NLP": 1358,
+    "Retrieval": 5142,
+    "Embeddings": 5080,
+    "Milvus": 1384,
+    "Ranking": 4
+  },
+  "proxy_deltas": {
+    "years_of_experience": 3.797,
+    "recruiter_response_rate": 0.271,
+    "github_activity_score": 32.122,
+    "open_to_work_pct": 0.692,
+    "notice_period_days": -14.97,
+    "skill_assessment_mean": 55.304,
+    "saved_by_recruiters_30d": 21.928,
+    "profile_completeness": 20.529,
+    "skill_count": 7.304,
+    "ai_title": 0.938,
+    "eng_title": 1
+  }
+}
